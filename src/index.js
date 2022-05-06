@@ -12,7 +12,7 @@ import send from './modules/send'
 modal()
 slider()
 scroll()
-timer('11 may 2022')
+timer('25 may 2022')
 // formValidate()
 calculator()
 sliderTwo()
